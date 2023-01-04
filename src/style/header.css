@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100&display=swap');
+
+@font-face {
+  font-family:'Epilogue' , sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100&display=swap');
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-family: 'Epilogue', sans-serif;
+  color: white;
+}
+
+
