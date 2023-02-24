@@ -1,13 +1,32 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## 🧐 Sobre
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<h4 align="left"> 
+	Esse projeto tem o objetivo de: <br><br>
+- Visualizar todos os planetas do sistema solar renderizados na tela;<br>
+- Visualizar todas as cartas com informações sobre missões espaciais;<br><br>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Está sendo desenvolvido as seguintes habilidades nesse projeto:
+  
+- Utilizar JSX no React;
+- Utilizar corretamente o método render() para renderizar seus componentes;
+- Utilizar import para trazer componentes em diferentes arquivos;
+- Criar componentes de classe em React;
+- Criar múltiplos componentes a partir de um array;
+- Fazer uso de props corretamente;
+- Fazer uso de PropTypes para validar as props de um componente.
+</h4>
+
+
+## ⚒ Instalando <a name = "installing"></a>
+
+```bash
+# Clone o projeto
+$ git clone git@github.com:wesleymktd/project-solar-system.git
+# Acesse
+$ cd ./project-solar-system
+# Instale as dependencias
+$ npm install
+# Inicie o projeto
+$ npm start
+# O servidor vai inicar na porta <http://localhost:3000>
+```
