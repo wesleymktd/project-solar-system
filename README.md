@@ -1,4 +1,4 @@
-## 🧐 Sobre
+## 🧐 Sobre<br>
 
 <h4 align="left"> 
   Projeto Solar System é uma maquete do sistema solar!
