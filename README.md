@@ -1,11 +1,10 @@
 ## 🧐 Sobre
 
 <h4 align="left"> 
-  Projeto Solar System é uma maquete do sistema solar!
-  Esse projeto tem o objetivo de: <br><br>
-- Visualizar todos os planetas do sistema solar renderizados na tela;<br>
-- Visualizar todas as cartas com informações sobre missões espaciais;<br><br>
-
+  Projeto Solar System é uma maquete do sistema solar! Nele o usuário será capaz de:
+  Ver todos os planetas do sistema solar renderizados na tela;
+  Visualizar todas as cartas com informações sobre missões espaciais;
+  
 Está sendo desenvolvido as seguintes habilidades nesse projeto:
   
 - Utilizar JSX no React;
