@@ -1,11 +1,11 @@
 ## 🧐 Sobre
 
-<h4 align="left"> 
+<p align="left"> 
   Projeto Solar System é uma maquete do sistema solar! Nele o usuário será capaz de:
-  <p>
+  
  - Ver todos os planetas do sistema solar renderizados na tela;<br>
  - Visualizar todas as cartas com informações sobre missões espaciais;<br>
-  </p>
+
 Está sendo desenvolvido as seguintes habilidades nesse projeto:
   
 - Utilizar JSX no React;
@@ -15,7 +15,7 @@ Está sendo desenvolvido as seguintes habilidades nesse projeto:
 - Criar múltiplos componentes a partir de um array;
 - Fazer uso de props corretamente;
 - Fazer uso de PropTypes para validar as props de um componente.
-</h4>
+</p>
 
 
 ## ⚒ Instalando <a name = "installing"></a>
