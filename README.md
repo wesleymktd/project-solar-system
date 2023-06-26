@@ -33,6 +33,7 @@ $ npm start
 ```
 
 ## Tecnologias mais utilizadas:
+
 - React;
 - JavaScript;
 - Css;
