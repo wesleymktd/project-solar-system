@@ -3,7 +3,7 @@
 <h4 align="left"> 
   Projeto Solar System é uma maquete do sistema solar! Nele o usuário será capaz de:<br>
   Ver todos os planetas do sistema solar renderizados na tela;<br>
-  Visualizar todas as cartas com informações sobre missões espaciais;
+  Visualizar todas as cartas com informações sobre missões espaciais;<br>
   
 Está sendo desenvolvido as seguintes habilidades nesse projeto:
   
