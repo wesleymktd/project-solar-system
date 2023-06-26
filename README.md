@@ -1,7 +1,8 @@
 ## 🧐 Sobre
 
 <h4 align="left"> 
-	Esse projeto tem o objetivo de: <br><br>
+  Projeto Solar System é uma maquete do sistema solar!
+  Esse projeto tem o objetivo de: <br><br>
 - Visualizar todos os planetas do sistema solar renderizados na tela;<br>
 - Visualizar todas as cartas com informações sobre missões espaciais;<br><br>
 
@@ -30,3 +31,8 @@ $ npm install
 $ npm start
 # O servidor vai inicar na porta <http://localhost:3000>
 ```
+
+## Tecnologias mais utilizadas:
+- React;
+- JavaScript;
+- Css;
