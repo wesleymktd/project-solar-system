@@ -17,6 +17,10 @@ Está sendo desenvolvido as seguintes habilidades nesse projeto:
 - Fazer uso de PropTypes para validar as props de um componente.
 </p>
 
+<div align="center" display="inline">
+<img src="./src/images/my-solar-system.png" alt="planets" width="400px" height="250px">
+<img src="./src/images/my-solar-system-b.png" alt="missions" width="400px" height="250px">
+</div>
 
 ## ⚒ Instalando <a name = "installing"></a>
 
